@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="airtraffic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/airtraffic_jar</output-path>
+    <root id="archive" name="airtraffic.jar">
+      <element id="module-output" name="airtraffic" />
+    </root>
+  </artifact>
+</component>
